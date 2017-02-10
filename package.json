@@ -1,0 +1,14 @@
+{
+  "name": "btc-price",
+  "version": "0.0.1",
+  "description": "Command-line tool for displaying Bitcoin price",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leon Shalimov <soviet.pepe@gmail.com> (http://codingpepe.com/)",
+  "license": "MIT",
+  "bin": {
+    "btc-price": "./index.js"
+  }
+}
