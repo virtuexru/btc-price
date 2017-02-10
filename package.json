@@ -1,5 +1,5 @@
 {
-  "name": "btc-price",
+  "name": "@soviet.pepe/btc-price",
   "version": "0.0.1",
   "description": "Command-line tool for displaying Bitcoin price",
   "main": "index.js",
@@ -8,6 +8,10 @@
   },
   "author": "Leon Shalimov <soviet.pepe@gmail.com> (http://codingpepe.com/)",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:virtuexru/btc-price.git"
+  },
   "bin": {
     "btc-price": "./index.js"
   }
