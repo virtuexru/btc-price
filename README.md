@@ -5,7 +5,7 @@ A tiny library that fetches latest BTC price.
 
 ## Installation
 
-  `npm install @soviet.pepe/btc-price`
+  `npm install btc-price -g`
 
 ## Usage
 

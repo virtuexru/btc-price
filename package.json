@@ -1,6 +1,6 @@
 {
-  "name": "@soviet.pepe/btc-price",
-  "version": "0.0.1",
+  "name": "btc-price",
+  "version": "0.0.2",
   "description": "Command-line tool for displaying Bitcoin price",
   "main": "index.js",
   "scripts": {

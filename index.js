@@ -10,7 +10,7 @@ http.get({
     response.on('data', function(d) { body += d; });
     response.on('end', function() {
       // console.log(JSON.parse(body));
-      console.log("Latest BTC price: " + JSON.parse(body).bpi.USD.rate);
+      console.log("Latest BTC price: $" + JSON.parse(body).bpi.USD.rate);
     });
   }
 );
