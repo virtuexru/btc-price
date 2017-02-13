@@ -1,8 +1,8 @@
 {
   "name": "btc-price",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Command-line tool for displaying Bitcoin price",
-  "main": "index.js",
+  "main": "lib/btc-price.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -20,7 +20,7 @@
     "cli"
   ],
   "bin": {
-    "btc-price": "./bin/btc-price.js"
+    "btc-price": "./lib/btc-price.js"
   },
   "dependencies": {
     "chalk": "^1.1.3",
