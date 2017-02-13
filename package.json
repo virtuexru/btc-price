@@ -1,6 +1,6 @@
 {
   "name": "btc-price",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Command-line tool for displaying Bitcoin price",
   "main": "index.js",
   "scripts": {
@@ -10,9 +10,19 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:virtuexru/btc-price.git"
+    "url": "https://github.com/virtuexru/btc-price.git"
   },
+  "keywords": [
+    "bitcoin",
+    "btc",
+    "btc-price",
+    "cli"
+  ],
   "bin": {
     "btc-price": "./index.js"
+  },
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "commander": "^2.9.0"
   }
 }
