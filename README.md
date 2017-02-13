@@ -22,6 +22,7 @@ A tiny library that fetches latest BTC price.
 
 ##### Verion History  
 
+ - `0.1.2` Fixing minor path issues
  - `0.1.0` Add color, error handling & currency options
  - `0.0.2` Tagging & minor error fixes
  - `0.0.1` Initial release
