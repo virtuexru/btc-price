@@ -13,8 +13,10 @@ Yet another tiny library that fetches latest BTC prices in different currencies.
 
 ## Options
 
+ - `default` Will display price in United States Dollars
  - `-g` Display price in Great British Pounds
  - `-e` Display price in Euro's
+ - `-V` Display current version
 
 ## Contributing
 
@@ -22,6 +24,7 @@ Yet another tiny library that fetches latest BTC prices in different currencies.
 
 ## Verion History  
 
+ - `0.1.5` Proper commander versioning
  - `0.1.4` Removing text prefix & README
  - `0.1.3` Version update & tagging
  - `0.1.2` Moving script
