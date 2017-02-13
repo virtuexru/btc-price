@@ -12,6 +12,7 @@
     "type": "git",
     "url": "https://github.com/virtuexru/btc-price.git"
   },
+  "main": "./lib/btc-price.js",
   "keywords": [
     "bitcoin",
     "btc",
@@ -19,7 +20,7 @@
     "cli"
   ],
   "bin": {
-    "btc-price": "./index.js"
+    "btc-price": "./bin/btc-price.js"
   },
   "dependencies": {
     "chalk": "^1.1.3",
