@@ -1,7 +1,7 @@
 BTC Price
 =========
 
-A tiny library that fetches latest BTC price.
+Yet another tiny library that fetches latest BTC prices in different currencies.
 
 ## Installation
 
@@ -9,19 +9,20 @@ A tiny library that fetches latest BTC price.
 
 ## Usage
 
-  In your terminal type: `btc-price`
+  In your shell: `btc-price`
 
-##### Options
+## Options
 
  - `-g` Display price in Great British Pounds
  - `-e` Display price in Euro's
 
-##### Contributing
+## Contributing
 
   Go nuts; open a PR or Issue.
 
-##### Verion History  
+## Verion History  
 
+ - `0.1.4` Removing text prefix & README
  - `0.1.3` Version update & tagging
  - `0.1.2` Moving script
  - `0.1.0` Add color, error handling & currency options
