@@ -11,6 +11,10 @@ Yet another tiny library that fetches latest BTC prices in different currencies.
 
   In your shell: `btc-price`
 
+## Source
+
+  Pulling the price thanks to [CoinDesk.com's](http://www.coindesk.com/) [free API](http://www.coindesk.com/api/). Big shoutout to them!
+
 ## Options
 
  - `default` Will display price in United States Dollars
@@ -24,6 +28,7 @@ Yet another tiny library that fetches latest BTC prices in different currencies.
 
 ## Verion History  
 
+ - `0.2.0` Added a shoutout to CoinDesk, RUB support, upcoming currencies
  - `0.1.6` Adding website, fixing styling
  - `0.1.5` Proper commander versioning
  - `0.1.4` Removing text prefix & README
@@ -36,3 +41,8 @@ Yet another tiny library that fetches latest BTC prices in different currencies.
 ## Website
 
 [btc-price on CodingPepe.com](http://www.codingpepe.com/2017/02/10/created-my-first-node-js-module-for-displaying-bitcoin-price-in-your-terminal/)
+
+## TO-DO's:
+
+ - Add better error handling
+ - Testing
