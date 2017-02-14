@@ -1,6 +1,6 @@
 {
   "name": "btc-price",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Command-line tool for displaying Bitcoin price",
   "main": "lib/btc-price.js",
   "scripts": {
@@ -25,5 +25,6 @@
   "dependencies": {
     "chalk": "^1.1.3",
     "commander": "^2.9.0"
-  }
+  },
+  "url": "http://www.codingpepe.com/2017/02/10/created-my-first-node-js-module-for-displaying-bitcoin-price-in-your-terminal/"
 }

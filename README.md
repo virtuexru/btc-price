@@ -20,10 +20,11 @@ Yet another tiny library that fetches latest BTC prices in different currencies.
 
 ## Contributing
 
-  Go nuts; open a PR or Issue.
+  Please feel free to go nuts; open a PR, Issue or Fork!
 
 ## Verion History  
 
+ - `0.1.6` Adding website, fixing styling
  - `0.1.5` Proper commander versioning
  - `0.1.4` Removing text prefix & README
  - `0.1.3` Version update & tagging
@@ -32,3 +33,6 @@ Yet another tiny library that fetches latest BTC prices in different currencies.
  - `0.0.2` Tagging & minor error fixes
  - `0.0.1` Initial release
   
+## Website
+
+[btc-price on CodingPepe.com](http://www.codingpepe.com/2017/02/10/created-my-first-node-js-module-for-displaying-bitcoin-price-in-your-terminal/)
