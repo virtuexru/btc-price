@@ -20,6 +20,9 @@ Yet another tiny library that fetches latest BTC prices in different currencies.
  - `default` Will display price in United States Dollars
  - `-g` Display price in Great British Pounds
  - `-e` Display price in Euro's
+ - `-r` Display price in Rubles
+ - `-j` Display price in Japanese Yen
+ - `-y` Display price in Chinese Yuan
  - `-V` Display current version
 
 ## Contributing
@@ -28,6 +31,7 @@ Yet another tiny library that fetches latest BTC prices in different currencies.
 
 ## Verion History  
 
+ - `0.2.1` Adding JPY & CNY
  - `0.2.0` Added a shoutout to CoinDesk, RUB support, upcoming currencies
  - `0.1.6` Adding website, fixing styling
  - `0.1.5` Proper commander versioning
