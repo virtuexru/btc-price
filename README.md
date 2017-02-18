@@ -20,9 +20,10 @@ Yet another tiny library that fetches latest BTC prices in different currencies.
  - `default` Will display price in United States Dollars
  - `-g` Display price in Great British Pounds
  - `-e` Display price in Euro's
- - `-r` Display price in Rubles
+ - `-r` Display price in Russian Rubles
  - `-j` Display price in Japanese Yen
  - `-y` Display price in Chinese Yuan
+ - `-i` Display price in Indian Rupee
  - `-V` Display current version
 
 ## Contributing
