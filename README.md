@@ -31,6 +31,7 @@ Yet another tiny library that fetches latest BTC prices in different currencies.
 
 ## Verion History  
 
+ - `0.2.2` Adding INR
  - `0.2.1` Adding JPY & CNY
  - `0.2.0` Added a shoutout to CoinDesk, RUB support, upcoming currencies
  - `0.1.6` Adding website, fixing styling
