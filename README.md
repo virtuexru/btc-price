@@ -11,7 +11,7 @@ Yet another tiny library that fetches latest BTC prices in different currencies.
 
   In your shell: `btc-price`
 
-## Source
+## Data Source
 
   Pulling the price thanks to [CoinDesk.com's](http://www.coindesk.com/) [free API](http://www.coindesk.com/api/). Big shoutout to them!
 
@@ -24,6 +24,7 @@ Yet another tiny library that fetches latest BTC prices in different currencies.
  - `-j` Display price in Japanese Yen
  - `-y` Display price in Chinese Yuan
  - `-i` Display price in Indian Rupee
+ - `-c` Display price in Canadian Dollar
  - `-V` Display current version
 
 ## Contributing
@@ -32,6 +33,7 @@ Yet another tiny library that fetches latest BTC prices in different currencies.
 
 ## Verion History  
 
+ - `0.2.3` Adding CAD
  - `0.2.2` Adding INR
  - `0.2.1` Adding JPY & CNY
  - `0.2.0` Added a shoutout to CoinDesk, RUB support, upcoming currencies
@@ -51,4 +53,4 @@ Yet another tiny library that fetches latest BTC prices in different currencies.
 ## TO-DO's:
 
  - Add better error handling
- - Testing
+ - Testing (Mocha, Sinon)

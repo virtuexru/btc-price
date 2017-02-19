@@ -1,6 +1,6 @@
 {
   "name": "btc-price",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Command-line tool for displaying Bitcoin price",
   "main": "lib/btc-price.js",
   "scripts": {
