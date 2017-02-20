@@ -26,6 +26,14 @@ Yet another tiny library that fetches latest BTC prices in different currencies.
  - `-i` Display price in Indian Rupee
  - `-c` Display price in Canadian Dollar
  - `-V` Display current version
+  
+## Website
+
+[btc-price on CodingPepe.com](http://www.codingpepe.com/2017/02/10/created-my-first-node-js-module-for-displaying-bitcoin-price-in-your-terminal/)
+
+## Testing
+
+To run the `mocha` test suite use `npm test`
 
 ## Contributing
 
@@ -45,10 +53,6 @@ Yet another tiny library that fetches latest BTC prices in different currencies.
  - `0.1.0` Add color, error handling & currency options
  - `0.0.2` Tagging & minor error fixes
  - `0.0.1` Initial release
-  
-## Website
-
-[btc-price on CodingPepe.com](http://www.codingpepe.com/2017/02/10/created-my-first-node-js-module-for-displaying-bitcoin-price-in-your-terminal/)
 
 ## TO-DO's:
 
