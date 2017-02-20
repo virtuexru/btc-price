@@ -35,12 +35,15 @@ Yet another tiny library that fetches latest BTC prices in different currencies.
 
 To run the `mocha` test suite use `npm test`
 
+Currently the testing is a placeholder :)
+
 ## Contributing
 
   Please feel free to go nuts; open a PR, Issue or Fork!
 
 ## Verion History  
 
+ - `0.3.0` Encapsulating our script in a function, testing framework skeleton
  - `0.2.3` Adding CAD
  - `0.2.2` Adding INR
  - `0.2.1` Adding JPY & CNY
