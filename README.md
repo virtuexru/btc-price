@@ -25,6 +25,7 @@ Yet another tiny library that fetches latest BTC prices in different currencies.
  - `-y` Display price in Chinese Yuan
  - `-i` Display price in Indian Rupee
  - `-c` Display price in Canadian Dollar
+ - `-s` Display price in Swedish Krona
  - `-V` Display current version
   
 ## Website
@@ -43,6 +44,7 @@ Currently the testing is a placeholder :)
 
 ## Verion History  
 
+ - `0.3.1` Slight optimization, adding SEK
  - `0.3.0` Encapsulating our script in a function, testing framework skeleton
  - `0.2.3` Adding CAD
  - `0.2.2` Adding INR
