@@ -30,7 +30,11 @@ Yet another tiny library that fetches latest BTC prices in different currencies.
   
 ## Website
 
-[btc-price on CodingPepe.com](http://www.codingpepe.com/2017/02/10/created-my-first-node-js-module-for-displaying-bitcoin-price-in-your-terminal/)
+You can check out my free currency converter tool that will allow you to convert any conventional fiat currency into cryptocurrency. We have pairings
+from BTC, DOGE, ETH, LTC & more that can convert by USD, EUR, GBP & more.
+
+[Fiat (USD) -> Cryptocurrency (BTC) Converter Tool](https://www.coquix.io/fiat_converter/usd/btc)
+[Fiat (USD) -> Cryptocurrency (DOGE) Converter Tool](https://www.coquix.io/fiat_converter/usd/doge)
 
 ## Testing
 
