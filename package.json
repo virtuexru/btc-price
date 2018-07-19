@@ -1,12 +1,12 @@
 {
   "name": "btc-price",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "Command-line tool for displaying Bitcoin price",
   "main": "./lib/btc-price.js",
   "scripts": {
     "test": "mocha"
   },
-  "author": "Leon Shalimov <soviet.pepe@gmail.com> (http://codingpepe.com/)",
+  "author": "Leon Shalimov <virtuexru@coquix.io> (https://www.coquix.io/)",
   "license": "MIT",
   "repository": {
     "type": "git",
